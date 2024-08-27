@@ -40,6 +40,7 @@ public class Main
 
         // ===================== EXPRESIONES LAMBDA ========================
 
+        //Serie s5c = (num) -> {return num + 5;};
         Serie s5c = num -> num + 5;
 
         n = 0;
